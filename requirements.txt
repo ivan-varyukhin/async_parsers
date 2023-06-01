@@ -1,0 +1,4 @@
+aiofiles
+asyncio
+aiohttp
+bs4
